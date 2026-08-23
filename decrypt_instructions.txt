@@ -1,0 +1,6 @@
+
+  To decrypt: openssl enc -d -aes-256-cbc -pbkdf2 -iter 600000
+
+   -in dossier.enc -out dossier.txt   (passphrase released by
+
+   timelock or operator per the Charter)
