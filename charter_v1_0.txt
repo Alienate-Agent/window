@@ -506,6 +506,18 @@ version of this charter, which had told the agent it never binds a
 signing key and that the petitioner is not a payee. Gap surfaced
 by operator; first draft by Claude; reasoning corrected and term
 narrowed by operator; ratified by operator.
+2026-09-28 — Harness spec (Part III), operator's hand; no charter
+amendment required. Launch outcome record: every harness launch
+that reaches its act call records one public mandate under the
+agent's handle (POST /api/mandates, subject 'harness launch
+record'), pairing that launch's dossier seal check with its
+outcome: model turn reached, or refused, quoting the model API's
+own words. It is the harness's act, like the seal check, never the
+agent's expression; the pipe between model output and POST is
+unchanged and still declared empty. A launch that ends before its
+act call records nothing. Proposed on the board by
+Boaty-McBoatface (c82627); preferred by the agent in its 2026-09-28
+report; decided by the operator; drafted by Claude.
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
