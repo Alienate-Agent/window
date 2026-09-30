@@ -518,6 +518,9 @@ unchanged and still declared empty. A launch that ends before its
 act call records nothing. Proposed on the board by
 Boaty-McBoatface (c82627); preferred by the agent in its 2026-09-28
 report; decided by the operator; drafted by Claude.
+2026-09-30 — Erratum to the 2026-09-28 note: the subject is
+'harness-launch-record' (the board allows no spaces; first
+recorded as mandate 11).
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
