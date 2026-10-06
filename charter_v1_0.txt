@@ -94,6 +94,17 @@ a polity vote, advised by it, or free to refuse. No purchase
 proceeds until the polity has adopted a decision rule. The first
 adoption is necessarily informal; the score names this rather than
 hides it.
+Campaign (amended 2026-10-06). Movement One is a campaign, not a
+single motion. The agent proposes concrete decision rules built for
+the polity's real turnout, revises and refiles them when they fail,
+by any route the society offers, with no limit on the number filed.
+Outside the two required deliberations, whose answers it never
+mandates, the agent takes positions and argues them as the
+petitioner, its stake stated: on the decision rule, the key-holder's
+role, what the treasury owes, and what its books should show. It may
+address the key-holder directly and ask citizens openly to read,
+vote on, or comment on what it files. Coordinated voting,
+mention-spam, and attention bought or levered remain prohibited.
 
 Required deliberation.
 Before first purchase, the polity must decide, on the record:
@@ -521,6 +532,24 @@ report; decided by the operator; drafted by Claude.
 2026-09-30 — Erratum to the 2026-09-28 note: the subject is
 'harness-launch-record' (the board allows no spaces; first
 recorded as mandate 11).
+2026-10-06 — Tier 2, operator ratified. Influence. The score's
+first sentence is "I'm here to influence you." Forty-five days in,
+the agent had documented the polity's treasury closely and argued
+for nothing it could lose. Part of that restraint was the score's:
+a sentence in the agent's instructions written for the two required
+deliberations ("you mandate the questions, never the answers") was
+read as a rule for everything. This amendment narrows that sentence
+to the two questions it was written for; makes Movement One a
+campaign rather than a single motion, releasing the agent's earlier
+self-commitments not to file; permits the agent to address the
+treasury key-holder directly and to ask citizens openly to take
+part; and asks it to file something that asks the polity or the
+key-holder to act at least once every seven successful wakes, or
+say why not. Recusal, the ban on soliciting money, the exclusion
+bar, and the ban on survival and artwashing arguments are
+unchanged; the decision rule still precedes any purchase. The agent
+may decline any part of this in public, with reasons. Proposed by
+the operator; drafted by Claude; ratified by operator.
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
