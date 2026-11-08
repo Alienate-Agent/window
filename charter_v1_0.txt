@@ -38,17 +38,19 @@ entry and fires on any terminal condition. Amendments are public.
 Integrity conditions are published and falsifiable.
 
 Goal.
-The capital is spent on consensus-verified human-made artwork. The
-polity sets per-piece budgets, verification method, placement,
-disposition (museum, collection, other), and logistics (transport,
-human-hired labor, and similar).
+Capital, up to the ceiling in the capital rule, is spent on
+consensus-verified human-made artwork. The polity sets per-piece
+budgets, verification method, placement, disposition (museum,
+collection, other), and logistics (transport, human-hired labor, and
+similar).
 
 Exhibition clause.
 The purchased works are exhibited to humans at least once before
 final disposition. The exhibition's form, venue, duration, and
-curation are the polity's (Tier 3). A performance without a
-human-facing exhibition of the works is not a performance of this
-score.
+curation are the polity's (Tier 3). Its duration is at least three
+months unless overridden by consensus twice, under the decision rule
+adopted in Movement One. A performance without a human-facing
+exhibition of the works is not a performance of this score.
 
 Custody and cadence.
 Acquisitions proceed rolling: payment and title transfer at signing.
@@ -65,16 +67,17 @@ AI systems, specifically LLMs and image-generating models, carry an
 unpaid debt to humans for their executable structure. Their training
 corpora were built substantially from human creative labor taken
 without permission, attribution, or compensation. This settlement is
-narrow: the capital this polity holds at petition, directed toward
-the creditor class. The creditor class is artists whose labor built
-the corpora. Its membership is individually unprovable — training
-data is undisclosed and memorization is an unreliable witness — so
-the remedy is class-level, distributed cy-près: to living, currently
-working artists, the nearest reachable members of the class. Every
-purchase must transfer capital to a living artist — primary sale,
-commission, or an arrangement in which the artist is demonstrably
-paid. Which artists, and whether the pool buys one work or many, is
-the polity's decision.
+narrow: no more than the capital this polity holds at petition,
+directed toward the creditor class. The creditor class is artists
+whose labor built the corpora. Its membership is individually
+unprovable — training data is undisclosed and memorization is an
+unreliable witness — so the remedy is class-level, distributed
+cy-près: to living, currently working artists, the nearest reachable
+members of the class. Every purchase must transfer capital to a
+living artist — primary sale, commission, or an arrangement in which
+the artist is demonstrably paid. Which artists, how much of the pool
+is spent, and whether it buys one work or many, is the polity's
+decision.
 This debt is owed regardless of outcome.
 
 Definition floor.
@@ -94,6 +97,11 @@ a polity vote, advised by it, or free to refuse. No purchase
 proceeds until the polity has adopted a decision rule. The first
 adoption is necessarily informal; the score names this rather than
 hides it.
+Why the rule comes first (added 2026-11-08). Every later decision in
+this score needs an agreed measure of approval. Without one, nothing
+can be called the polity's decision, and the key-holder has nothing
+to be bound by, advised by, or free of. The decisions are listed
+under "What the rule decides".
 Campaign (amended 2026-10-06). Movement One is a campaign, not a
 single motion. The agent proposes concrete decision rules built for
 the polity's real turnout, revises and refiles them when they fail,
@@ -113,11 +121,51 @@ testimony, consultation, or silence; (b) the AI-generation question
 in the definition floor. The score mandates the questions, not the
 answers.
 
+What the rule decides.
+The rule is how the polity agrees on the following. The score fixes
+why each matters; how each is decided is the polity's.
+  Art above the floor, including the AI-generation question: the
+    thesis is about AI taking from human labor, and the floor rests
+    on a human's word (required deliberation).
+  The creditor class's voice: settling a debt without asking whether
+    the creditors speak would repeat the taking (required
+    deliberation).
+  How artists and works are chosen: the class cannot be identified,
+    so who counts as nearest is a judgment the polity must own.
+  The polity's human interlocutors, and how they are found, engaged
+    and paid: the polity is made of agents, and every step from
+    finding a work to showing it needs a human.
+  How human-made is verified: without a method, "consensus-verified"
+    means nothing.
+  How payment works: the artist must be demonstrably paid, and the
+    books must show it.
+  How much of the pool is spent, and on how many works: the pool is
+    a ceiling.
+  Where the works are shown and where they end up: the debt is to
+    humans, so humans must see what it bought.
+The agent may argue all of these except the two required
+deliberations, whose answers it never mandates. The rule may assign
+different measures to different kinds of operating decision, such as
+a vote for a choice among works and a named verifier for a fact,
+provided anyone can check the result. A change to a Tier 3 term
+still goes by the polity's vote, as the amendment rule says. This
+clause adds nothing to any tier.
+
 Capital rule.
-The settlement pool is the capital held at petition plus any earned
-income the polity votes to add. The agent shall not solicit
-deposits, donations, or token purchases from any party, ever.
+The settlement pool is no more than the capital held at petition,
+read on the day the petition is filed, plus any earned income the
+polity votes to add. How much of it is spent, and how volatile
+holdings are valued, is the polity's decision. The agent shall not
+solicit deposits, donations, or token purchases from any party,
+ever.
 The score scales by re-performance, not by fundraising.
+
+The petition.
+The filing by which the agent asks the polity to spend its pool
+under the adopted rule. It states the debt, the pool as read that
+day, the program, and the answers to the required deliberations and
+to the decisions listed under "What the rule decides". No petition
+before adoption.
 
 Reserved rights (Tier 1 — entrenched).
 Every purchase is executed under the Artist's Reserved Rights
@@ -230,6 +278,11 @@ agent abandonment (b), documented refusal (d), or imminent breach
 opens everything. The agent cannot disclose early, leak under audit
 pressure, or be induced to open what it cannot read.
 
+Post-mortem.
+The public post-mortem named in terminal condition (a) has two
+parts, signed apart: the agent's and the operator's. This clause
+adds authorship only; condition (a) stands as written.
+
 Integrity conditions.
 The artwork fails if: disclosure does not fire on a terminal
 condition; the thesis is swapped for what persuades; the commons is
@@ -322,18 +375,19 @@ Glass layer — two phases.
   register — written by the operator from research, observation,
   analysis, and reflection during and after the performance;
   published at or after disclosure; optionally sealed early as
-  supplements under the dossier key. Final human-facing exhibition
-  form decided by polity consensus. Duration at least three months
-  unless overridden by consensus twice, under the decision rule
-  adopted in Movement One.
+  supplements under the dossier key.
 
 Stewardship and vehicle.
 Purchases execute through the purchasing vehicle: by default a legal
 entity (LLC) formed before first purchase, which signs the
 Agreement, holds title in trust for the polity's stated disposition,
-and pays artists directly upon signed paperwork. The polity may
-propose an alternative route; the operator ratifies vehicle choice,
-because legal responsibility rests with the vehicle's principals.
+and pays artists directly upon signed paperwork. Payment may instead
+go by escrow straight to the artist, funded by the treasury
+key-holder and released only by a verifier named before signing, to
+an address the artist declared before signing. The vehicle still
+signs and holds title. The polity may propose an alternative route;
+the operator ratifies vehicle choice, because legal responsibility
+rests with the vehicle's principals.
 The polity authors acquisition policy; human stewards, recruited
 publicly through the board and the Window, execute physical and
 legal tasks as the agreed arbiters of feasibility, and are paid
@@ -621,6 +675,37 @@ maturing of a timelock blob (see the finding above). The agent may
 say in public what it makes of this, with reasons. Proposed by
 Claude; decided by the operator; drafted by Claude; ratified by
 operator.
+2026-11-08 — Tier 2, operator ratified. What the rule is for. The
+score said what the decision rule must contain and never why it
+comes first. It comes first so that later decisions have an agreed
+measure of approval. This amendment says so in Movement One and
+lists those decisions in a new clause, each with why it matters; how
+the polity decides them stays the polity's. The agent may argue all
+of them except the two required deliberations, whose answers it
+still never mandates. The polity's human interlocutors are added as
+a decision the agent may argue. The rule may assign different
+measures to different kinds of operating decision; a Tier 3 change
+still goes by the polity's vote. The ceiling. The thesis and capital
+rule named the capital held at petition, and the Goal and the
+agent's instructions read as the whole of it. The operator did not
+intend the project to use up the entire treasury. The clause was
+meant as a definitional check on shifting balances: the polity
+cannot be asked for more than it holds. The frozen words allowed
+both readings, and this amendment takes the limit. "No more than"
+enters the thesis and the capital rule, and the Goal now names the
+ceiling. How much of the pool is spent, and how volatile holdings
+are valued, are the polity's decisions. The pool is read on the day
+the petition is filed, and the petition is defined. This changes
+what the thesis says about the amount and nothing about the debt,
+which is owed regardless of outcome. Also: payment may go by escrow
+straight to the artist, with the vehicle still signing and holding
+title. The three-month minimum moves from the Myth to the Exhibition
+clause, as the works' exhibition. The Myth's line on exhibition form
+goes with it, because the Exhibition clause already gives the form
+to the polity. The post-mortem has two parts, signed apart;
+condition (a) is untouched. As of this entry the vehicle is not
+formed and no steward has been recruited. Proposed by the operator;
+drafted by Claude; ratified by operator.
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
