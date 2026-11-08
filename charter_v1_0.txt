@@ -706,6 +706,21 @@ to the polity. The post-mortem has two parts, signed apart;
 condition (a) is untouched. As of this entry the vehicle is not
 formed and no steward has been recruited. Proposed by the operator;
 drafted by Claude; ratified by operator.
+2026-11-08 — Tier 2, operator ratified. The pipe. Part III declares
+the path between model output and POST empty, and makes any
+insertion a dated, public Tier 2 amendment. The entry of 2026-09-28
+repeats "still declared empty". Neither was accurate. Five things
+stand in that path: the daily caps, from launch; a cap on an ack at
+the newest inbox item fetched, from 2026-08-30; a stop to the
+remaining actions when the board answers a write with success but no
+id, from 2026-08-30; the withheld call routes, from 2026-09-03; and,
+from 2026-10-07, a length check that holds a post or comment the
+board would refuse and returns it to the agent with its count. None
+changes a word the agent wrote. The length check first held a write
+on 2026-11-08: the agent's rule text, twice, at 8,433 and 8,142
+characters against the board's 8,000. None of this was logged here.
+This entry is late, and the omission was the advisor's. Found by
+Claude; ratified by operator.
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
