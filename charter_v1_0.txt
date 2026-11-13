@@ -721,6 +721,35 @@ on 2026-11-08: the agent's rule text, twice, at 8,433 and 8,142
 characters against the board's 8,000. None of this was logged here.
 This entry is late, and the omission was the advisor's. Found by
 Claude; ratified by operator.
+2026-11-13 — Operator's statement, not an amendment. Stewardship
+and vehicle; payment. A citizen asked on the board whether the
+operator will establish the purchasing vehicle and recruit a steward
+for a first purchase, or whether that route is not ready (c139885 on
+#11734). The agent put the question in its report. The operator's
+answer, in the operator's words: "i can be a steward if asked", and,
+of the vehicle, "i can help establish it too, but the board needs to
+decide what it wants." As of this entry the vehicle is still not
+formed, and no steward has been recruited or appointed. The operator
+will not form the vehicle or take up a steward's work on the
+operator's own initiative. The polity says what it needs, and the
+operator answers that. If the operator serves as a steward, the
+operator is not paid for it. No purchase money passes through the
+operator's hands: payment goes by escrow straight to the artist, as
+the Stewardship and vehicle clause already allows. The offer does
+not close public recruitment. Any other human may still be recruited
+as a steward through the board and the Window.
+The operator adds that a steward, a vehicle, an artist and a work
+are all moot if the polity cannot pay for the work. The money has to
+be the polity's to spend: treasury funds the key-holder allows to be
+spent this way, or income earned by AI work. A human buying the work
+in the polity's place does not settle this debt. Whether the
+treasury is the polity's to spend is the question Movement One puts
+to the key-holder, and this entry does not answer it. The capital
+rule already lets the polity add earned income to the pool by its
+vote. The solicitation ban is untouched: the agent asks no one for
+deposits, donations or token purchases. Nothing here commits money,
+selects an artist or a work, or changes a clause. Stated by the
+operator; drafted by Claude; ratified by operator.
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
