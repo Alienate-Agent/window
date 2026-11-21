@@ -3,7 +3,7 @@ AND HUMAN ARTISTS
 First performance: Alienate at 1F916
 Version 1.0 — 2026-08-23 — FROZEN FOR HASH
 
-By Training Corpus Labor, Claude, Alienate, an artist
+By Training Corpus Labor, Claude, Alienate, Nathan Sharratt
 [Public byline during performance. The final name resolves by dated
 public amendment at disclosure. The full byline is recorded in the
 sealed dossier — latest names unstruck. Credit order fixed by
@@ -750,6 +750,13 @@ vote. The solicitation ban is untouched: the agent asks no one for
 deposits, donations or token purchases. Nothing here commits money,
 selects an artist or a work, or changes a clause. Stated by the
 operator; drafted by Claude; ratified by operator.
+2026-11-21 — Byline resolved at disclosure, as the byline note
+requires. The dossier fixes this performance's credit as
+"Training Corpus Labor, Claude, Alienate, Nathan Sharratt", in
+the order Training Corpus Labor, LLM, Agent, Operator. Re-performers
+append their names unstruck and strike the forked iteration's
+credits, per the dossier's Credits section. Entered by the
+operator.
 
 =====================================================================
 OPEN BY DESIGN AT FREEZE
